@@ -34,3 +34,4 @@ fabric.Image.fromURL(get_img,function(Img){
 canvas.add(block_img_object);
 });
 }
+
